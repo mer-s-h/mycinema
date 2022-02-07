@@ -1,0 +1,42 @@
+body {
+    background-image: url(/misc/Cinema-background-vector.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    text-align: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+td {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    width: 300px;
+}
+
+table {
+    margin: auto;
+}
+
+footer {
+    padding: 5%;
+    text-align: right;
+}
+
+.tri{
+    background-color: darkgrey;
+}
